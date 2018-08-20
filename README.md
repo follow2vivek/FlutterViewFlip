@@ -5,12 +5,12 @@
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 
-![Screenshot](https://github.com/follow2vivek/FlutterViewFlip/blob/master/screenshot/ss_1.png)
+![alt text](https://github.com/follow2vivek/FlutterViewFlip/blob/master/screenshot/ss_1.png "Flutter view flip screenshot")
 
 ***
 
-![Screenshot](https://github.com/follow2vivek/FlutterViewFlip/blob/master/screenshot/ss_2.png)
+![alt text](https://github.com/follow2vivek/FlutterViewFlip/blob/master/screenshot/ss_2.png "Flutter view flip screenshot")
 
 ***
 
-![Screenshot](https://github.com/follow2vivek/FlutterViewFlip/blob/master/screenshot/ss_3.png)
+![alt text](https://github.com/follow2vivek/FlutterViewFlip/blob/master/screenshot/ss_3.png "Flutter view flip screenshot")
