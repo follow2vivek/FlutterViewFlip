@@ -5,12 +5,6 @@
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 
-![alt text](https://github.com/follow2vivek/FlutterViewFlip/blob/master/screenshot/ss_1.png "Flutter view flip screenshot")
+## Screenshots
 
-***
-
-![alt text](https://github.com/follow2vivek/FlutterViewFlip/blob/master/screenshot/ss_2.png "Flutter view flip screenshot")
-
-***
-
-![alt text](https://github.com/follow2vivek/FlutterViewFlip/blob/master/screenshot/ss_3.png "Flutter view flip screenshot")
+<img src="./screenshot/ss_1.png" height="500em" alt="Flutter view flip screenshot"/> <img src="./screenshot/ss_2.png" height="500em" alt="Flutter view flip screenshot"/> <img src="./screenshot/ss_3.png" height="500em" alt="Flutter view flip screenshot"/>
