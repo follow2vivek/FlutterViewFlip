@@ -11,5 +11,5 @@ For help getting started with Flutter, view our online
 
 ### Created & Maintained By
 
-[Vivek Sharma](https://github.com/follow2vivek) ([Youtube](https://www.youtube.com/c/follo2vivek))
+[Vivek Sharma](https://github.com/follow2vivek) ([Youtube](https://www.youtube.com/c/follow2vivek))
 ([Instagram](https://www.instagram.com/follow2vivek))
