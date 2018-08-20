@@ -1,6 +1,4 @@
-# design1
-
-A new Flutter project.
+# Flutter switch view
 
 ## Getting Started
 
