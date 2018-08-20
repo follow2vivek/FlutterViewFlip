@@ -1,4 +1,4 @@
-# Flutter switch view
+# Flutter Flip view
 
 ## Getting Started
 
