@@ -7,7 +7,7 @@ For help getting started with Flutter, view our online
 
 ## Screenshots
 
-<img src="./screenshot/ss_1.png" height="500em" alt="Flutter view flip screenshot"/> <img src="./screenshot/ss_2.png" height="500em" alt="Flutter view flip screenshot"/> <img src="./screenshot/ss_3.png" height="500em" alt="Flutter view flip screenshot"/>
+<img src="./screenshot/ss_11.png" height="500em" alt="Flutter view flip screenshot"/> <img src="./screenshot/ss_21.png" height="500em" alt="Flutter view flip screenshot"/> <img src="./screenshot/ss_31.png" height="500em" alt="Flutter view flip screenshot"/>
 
 ## Created & Maintained By
 
