@@ -13,7 +13,7 @@ For help getting started with Flutter, view our online
 
 [Vivek Sharma](https://github.com/follow2vivek)
 
-# License
+## License
 
     Copyright 2018 Vivek Sharma
 
